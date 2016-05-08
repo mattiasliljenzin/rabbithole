@@ -1,0 +1,29 @@
+{
+  "name": "rabbithole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "amqp-stats": "0.0.14",
+    "amqplib": "^0.4.1",
+    "body-parser": "^1.15.1",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "router": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattiasliljenzin/rabbithole.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattiasliljenzin/rabbithole/issues"
+  },
+  "homepage": "https://github.com/mattiasliljenzin/rabbithole#readme"
+}
